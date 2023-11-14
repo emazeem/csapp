@@ -1,0 +1,36 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: NP Social-2CB1CA7C-DF42-47EF-836A-2AB1E97B7282.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], and [device: iPhone10,4, os-version: 12.0]
+App + On Demand Resources size: 13.5 MB compressed, 29.4 MB uncompressed
+App size: 13.5 MB compressed, 29.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: NP Social-3C553495-1BCB-4528-81D7-67DF61A8AD0D.ipa
+Supported variant descriptors: [device: iPhone10,4, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone9,1, os-version: 11.0], and [device: iPhone9,3, os-version: 11.0]
+App + On Demand Resources size: 13.5 MB compressed, 29.4 MB uncompressed
+App size: 13.5 MB compressed, 29.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: NP Social-53EADD36-D054-4905-B1D8-8F8D914D190F.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 16.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone12,8, os-version: 16.0], [device: iPhone10,1, os-version: 15.0], [device: iPhone14,6, os-version: 16.0], [device: iPhone10,4, os-version: 16.0], [device: iPhone10,4, os-version: 15.0], and [device: iPhone12,8, os-version: 15.0]
+App + On Demand Resources size: 11 MB compressed, 21.9 MB uncompressed
+App size: 11 MB compressed, 21.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: NP Social-9C9177B6-1B54-42A7-AB11-C52C23FAC1FE.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 11 MB compressed, 21.9 MB uncompressed
+App size: 11 MB compressed, 21.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: NP Social-9CE5A1E8-CF90-4532-B8AE-767F789CE2D4.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 11 MB compressed, 21.9 MB uncompressed
+App size: 11 MB compressed, 21.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

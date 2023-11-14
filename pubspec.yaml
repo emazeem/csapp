@@ -1,0 +1,68 @@
+name: connect_social
+description: CONNECT SOCIAL.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.12.0 <=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  indexed: ^0.0.8
+  font_awesome: ^5.10.1
+  http: ^0.13.5
+  shared_preferences: ^2.0.15
+  provider: ^6.0.0
+  fluttertoast: ^8.0.2
+  simple_circular_progress_bar: ^1.0.2
+  image_picker: ^0.8.6
+  intl: ^0.17.0
+  firebase_core_platform_interface: 4.5.1
+  onesignal_flutter: ^3.5.0
+  file_picker: ^5.2.4
+  webview_flutter: ^4.0.0
+  cached_network_image: ^3.2.3
+  dio: ^4.0.6
+  shimmer: ^2.0.0
+  video_thumbnail: ^0.4.3
+  #path_provider: ^2.0.2
+  just_audio: ^0.9.30
+  audio_video_progress_bar: ^0.11.0
+  flutter_launcher_icons: ^0.11.0
+  logger: ^1.1.0
+  google_fonts: ^2.1.0
+  animated_text_kit: ^4.2.2
+  badges: ^2.0.3
+  flutter_linkify: ^5.0.2
+  url_launcher:
+  url_launcher_ios:
+  image_cropper: ^3.0.1
+  change_app_package_name: ^1.1.0
+  photo_view: ^0.14.0
+  any_link_preview: ^3.0.0
+
+#flutter pub run flutter_launcher_icons
+flutter_icons:
+  android: "android_launcher"
+  #android: true
+  ios: true
+  image_path: "assets/images/logo.png"
+  adaptive_icon_background: "#ffffff"
+  remove_alpha_ios: true
+  adaptive_icon_foreground: "assets/images/logo.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
